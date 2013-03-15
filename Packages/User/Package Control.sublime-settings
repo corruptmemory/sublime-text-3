@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Bracketeer",
+		"CoffeeScript",
+		"Emacs-like Modelines",
+		"GitGutter",
+		"Package Control"
+	]
+}
